@@ -8,7 +8,7 @@ import PyPDF2
 
 
 
-st.header("¿Cuál es tu duda?")
+st.header("¿En qué puedo ayudarte?")
 # Cargar variables de entorno desde el archivo .env
 #load_dotenv()
 
